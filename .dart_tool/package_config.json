@@ -14,6 +14,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "awesome_dialog",
+      "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/awesome_dialog-3.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "bloc",
       "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/bloc-8.1.2",
       "packageUri": "lib/",
@@ -128,6 +134,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "graphs",
+      "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/graphs-2.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "http",
       "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.6",
       "packageUri": "lib/",
@@ -240,6 +252,18 @@
       "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "rive",
+      "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/rive-0.12.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "rive_common",
+      "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/rive_common-0.2.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
     },
     {
       "name": "shared_preferences",
@@ -368,6 +392,30 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "webview_flutter",
+      "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter-4.4.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "webview_flutter_android",
+      "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_android-3.13.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "webview_flutter_platform_interface",
+      "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_platform_interface-2.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "webview_flutter_wkwebview",
+      "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/webview_flutter_wkwebview-3.10.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "win32",
       "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/win32-4.1.4",
       "packageUri": "lib/",
@@ -392,7 +440,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2024-01-04T14:29:05.019406Z",
+  "generated": "2024-01-04T15:15:25.811427Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }
