@@ -92,6 +92,12 @@
       "languageVersion": "2.19"
     },
     {
+      "name": "flutter_staggered_grid_view",
+      "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_staggered_grid_view-0.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_svg",
       "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_svg-2.0.5",
       "packageUri": "lib/",
@@ -110,6 +116,12 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "fluttertoast",
+      "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/fluttertoast-8.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "freezed_annotation",
       "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/freezed_annotation-2.4.1",
       "packageUri": "lib/",
@@ -124,6 +136,12 @@
     {
       "name": "http_parser",
       "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.18.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -156,6 +174,12 @@
       "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.10.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "money_formatter",
+      "rootUri": "file:///C:/Users/Niko%20putro/AppData/Local/Pub/Cache/hosted/pub.dev/money_formatter-0.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "nested",
@@ -368,7 +392,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2024-01-04T13:18:11.754087Z",
+  "generated": "2024-01-04T14:29:05.019406Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }
